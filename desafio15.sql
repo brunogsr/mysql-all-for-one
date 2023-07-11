@@ -1,0 +1,1 @@
+SELECT HOUR(submitted_date) FROM submitted_hour FROM purchase_orders;
